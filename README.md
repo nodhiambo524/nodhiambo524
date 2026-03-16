@@ -2,9 +2,11 @@
 Computer Science @ Binghamton University
 
 Interested in:
-Systems Engineering
-Software Infrastructure
-Performance Optimization
+Systems Engineering,
+Data analysis
+Software Infrastructure,
+Performance Optimization,
+AI/ML Operations
 
 Projects
 - Cache Hierarchy Simulator
