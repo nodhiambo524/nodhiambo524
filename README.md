@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Natalie Odhiambo
+Computer Science @ Binghamton University
+
+Interested in:
+Systems Engineering
+Software Infrastructure
+Performance Optimization
+
+Projects
+- Cache Hierarchy Simulator
+- Network Threat Monitoring System
+- xv6 system calls and system call handling
+- Conference Planning System
 
 <!--
 **nodhiambo524/nodhiambo524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
